@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/selmaT273/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of Contents
+- [reading assingment 01]()
+- [reading assingment 02]()
+- [reading assingment 03]()
+- [reading assingment 04]()
+- [reading assingment 05]()
+- [reading assingment 06]()
+- [reading assingment 07]()
+- [reading assingment 08]()
+- [reading assingment 09]()
+- [reading assingment 10]()
+- [reading assingment 11]()
+- [reading assingment 12]()
+- [reading assingment 13]()
+- [reading assingment 14]()
+- [reading assingment 15]()
 
-### Markdown
+## About Me 
+![alt text](https://avatars1.githubusercontent.com/u/55901495?s=460&v=4)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/selmaT273/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hello there! My name is Stacey and I am currently pursuing an education in software development at Delta V Code School. Prior to joining Delta V, I earned my BS in psychology from Coe College in 2015, after which I worked as a full time Sign Language Interpreter and ran a small photography business. As I embark on my software development journey, this page will feature my daily reading assingments from DeltaV's 201 course as a way of digesting the intricate world of programming. Hop on over to 
+[My GitHub Page](https://github.com/selmaT273) to checkout what I've been working on!
