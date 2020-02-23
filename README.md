@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-- [reading assingment 01]()
+- [reading assingment 01](class-01.md)
 - [reading assingment 02]()
 - [reading assingment 03]()
 - [reading assingment 04]()
